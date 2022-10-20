@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NormaliserTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-10-20T21:43:06" hostname="CHEILA" time="0.027">
+  <properties/>
+  <testcase name="CheckNormalizationForAccountant()" classname="NormaliserTest" time="0.022"/>
+  <testcase name="CheckNormalizationForCEngineer()" classname="NormaliserTest" time="0.0"/>
+  <testcase name="CheckNormalizationForChiefAccountant()" classname="NormaliserTest" time="0.001"/>
+  <testcase name="CheckNormalizationForJavaEngineer()" classname="NormaliserTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
